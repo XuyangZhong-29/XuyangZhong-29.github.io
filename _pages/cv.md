@@ -51,6 +51,6 @@ Academic Service
 
 Skills
 ======
-* Languages: Chinese (native speaker), English (fluent), German (daily)
-* Hobby: Football
+* **Languages:** Chinese (native speaker), English (fluent), German (daily)
+* **Hobby:** Football
 
