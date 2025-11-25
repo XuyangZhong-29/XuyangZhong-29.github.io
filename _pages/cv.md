@@ -11,54 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, City University of Hong Kong, 2023.01 - 2026.12 (expected)
+* M.Sc. in Information Technology and Electrical Engineering, Technical University of Munich, 2020.11 - 2022.11
+* B.Eng. in Automation, Beijing Institute of Technology, 2016.09 - 2020.07
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Tencent, 2025.06 - Present
+  * Reserch intern (Tencent Project Up)
+  * Machine unlearning on LLMs
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Siemens Factory Automation Engineering, 2019.05 - 2019.11
+  * Data Analysis Intern (Excellent Intern Certificate)
+  * Duties included: Merging pull requests
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Award
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Outstanding Student Certificate, 2025
+  * Tencent Rhino-Bird Open Source Talent Development Program
+    
+* Research Tuition Scholarship, 2025
+	* City University of Hong Kong
+   
+* Outstanding Academic Performance Award, 2024
+	* City University of Hong Kong
+   
+* Conference Grant, 2024
+	* City University of Hong Kong 
   
-Teaching
+Academic Service
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Reviewer of ICLR and NeurIPS
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Languages: Chinese (native speaker), English (fluent), German (daily)
+* Hobby: Football
+
