@@ -13,4 +13,4 @@ My academic journey began in January 2023 and is focused on **Building Trustwort
 
 I obtained my Master degree from Technical University of Munich in November 2022 and Bachelor degree from Beijing Institute of Technology in July 2020.
 
-You can my CV here: [Xuyang Zhong's Curriculum Vitae](../assets/cv.pdf)
+You can find my CV here: [Xuyang Zhong's Curriculum Vitae](../assets/cv.pdf)
