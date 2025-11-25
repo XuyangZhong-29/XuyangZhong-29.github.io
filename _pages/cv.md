@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, City University of Hong Kong, 2023.01 - 2026.12 (expected)
+* Ph.D. in Computer Science, City University of Hong Kong, 2023.01 - 2026.12 (expected)
 * M.Sc. in Information Technology and Electrical Engineering, Technical University of Munich, 2020.11 - 2022.11
 * B.Eng. in Automation, Beijing Institute of Technology, 2016.09 - 2020.07
 
