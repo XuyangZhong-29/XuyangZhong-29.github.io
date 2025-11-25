@@ -6,7 +6,7 @@ permalink: /publication/sparse_pgd_tpami
 excerpt: '**Xuyang Zhong**, Chen Liu'
 date: 2025-11-05
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'
-paperurl: 'https://xuyang-zhong.github.io/files/sparse_pgd_tpami.pdf'
+paperurl: 'https://arxiv.org/pdf/2405.05075?'
 ---
 **Xuyang Zhong**, Chen Liu
 
