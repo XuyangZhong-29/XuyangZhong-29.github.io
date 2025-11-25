@@ -52,5 +52,4 @@ Academic Service
 Skills
 ======
 * **Languages:** Chinese (native speaker), English (fluent), German (daily)
-* **Hobby:** Football
-
+* **Hobby:** Football (Captain of CityU CSSA Soccer Team)
