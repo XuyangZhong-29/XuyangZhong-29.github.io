@@ -1,5 +1,5 @@
 ---
-title: "Understanding and Improving Fast Adversarial Train-ing against l0 Bounded Perturbations"
+title: "Understanding and Improving Fast Adversarial Train-ing against $l_0$ Bounded Perturbations"
 collection: publications
 category: conferences
 permalink: /publication/fast_ls_l0
