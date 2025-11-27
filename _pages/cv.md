@@ -22,8 +22,8 @@ Work experience
   * Machine unlearning on LLMs
   
 * Siemens Factory Automation Engineering, 2019.05 - 2019.11
-  * Data Analysis Intern (Excellent Intern Certificate)
-  * Duties included: Merging pull requests
+  * Data Analysis Intern (Outstanding Intern Certificate)
+  * Face Recognition API Development, Products Quality Prediction
 
 Publications
 ======
