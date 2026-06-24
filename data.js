@@ -31,8 +31,8 @@ window.SITE_DATA = {
   /* ---------- Research interests ---------- */
   interests: [
     "LLM post-training",
-    "Machine Unlearning",
-    "Adversarial Robustness",
+    "machine unlearning",
+    "adversarial robustness",
   ],
 
   /* ---------- News ---------- */
@@ -48,7 +48,7 @@ window.SITE_DATA = {
     },
     {
       date: "2025-09",
-      content: "Two paper was accepted to <strong>NeurIPS 2025</strong>!",
+      content: "Two paper were accepted to <strong>NeurIPS 2025</strong>!",
     },
     {
       date: "2025-06",
