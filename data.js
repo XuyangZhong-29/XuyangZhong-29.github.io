@@ -38,6 +38,11 @@ window.SITE_DATA = {
   /* ---------- News ---------- */
   news: [
     {
+      date: "2026-07",
+      content:
+        "Receive <strong>Goertek Scholarship</strong>! Only 11 PhD students at CityU are selected this year.",
+    },
+    {
       date: "2026-05",
       content:
         "One paper was accepted to <strong>ICML 2026</strong>!",
@@ -52,7 +57,7 @@ window.SITE_DATA = {
     },
     {
       date: "2025-06",
-      content: "Join Tencent as a research intern",
+      content: "Joined <strong>Tencent</strong> as a research intern",
     },
   ],
 
